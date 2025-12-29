@@ -101,9 +101,9 @@ Calculate the labeled compound ratio: `l.r. = Σ(d₁..dₙ) / Σ(d₀..dₙ)`
 
 The original IsoPat algorithm has been cited by leading journals including:
 
-- [**Nature Metabolism** - Tracing metabolic flux in vivo](https://www.nature.com/articles/s42255-021-00424-5)
-- [**Science** - Isotope tracing in metabolic pathways](https://www.science.org/doi/abs/10.1126/science.aap9674)
-- [**Nature Chemistry** - Mechanistic studies using isotope labeling](https://www.nature.com/articles/s41557-021-00796-7)
+- <a href="https://www.nature.com/articles/s42255-021-00424-5" target="_blank"><b>Nature Metabolism</b></a>
+- <a href="https://www.science.org/doi/abs/10.1126/science.aap9674" target="_blank"><b>Science</b></a>
+- <a href="https://www.nature.com/articles/s41557-024-01447-7" target="_blank"><b>Nature Chemistry</b></a>
 
 ## Citation
 
