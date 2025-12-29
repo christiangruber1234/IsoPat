@@ -124,6 +124,10 @@ If you use IsoPat in your research, please cite:
 }
 ```
 
+## Web Demo
+
+Try IsoPat online without installation: **[HuggingFace Space](https://huggingface.co/spaces/christiangruber/IsoPat)**
+
 ## License
 
 MIT License - see [LICENSE](LICENSE) for details.

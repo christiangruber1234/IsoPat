@@ -57,10 +57,9 @@ docs = [
 isopat = "isopat.cli:main"
 
 [project.urls]
-Homepage = "https://github.com/innophore/isopat"
-Documentation = "https://isopat.readthedocs.io"
-Repository = "https://github.com/innophore/isopat"
-"Bug Tracker" = "https://github.com/innophore/isopat/issues"
+Homepage = "https://github.com/christiangruber1234/IsoPat"
+Repository = "https://github.com/christiangruber1234/IsoPat"
+"Bug Tracker" = "https://github.com/christiangruber1234/IsoPat/issues"
 
 [tool.setuptools.packages.find]
 include = ["isopat*"]
