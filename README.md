@@ -97,6 +97,14 @@ Process multiple patterns efficiently.
 
 Calculate the labeled compound ratio: `l.r. = Σ(d₁..dₙ) / Σ(d₀..dₙ)`
 
+## Cited by
+
+The original IsoPat algorithm has been cited by leading journals including:
+
+- [**Nature Metabolism** - Tracing metabolic flux in vivo](https://www.nature.com/articles/s42255-021-00424-5)
+- [**Science** - Isotope tracing in metabolic pathways](https://www.science.org/doi/abs/10.1126/science.aap9674)
+- [**Nature Chemistry** - Mechanistic studies using isotope labeling](https://www.nature.com/articles/s41557-021-00796-7)
+
 ## Citation
 
 If you use IsoPat in your research, please cite:
