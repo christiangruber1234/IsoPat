@@ -1,0 +1,47 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "IsoPat: Isotope Pattern Deconvolution for Mass Spectrometry"
+version: 3.0.0
+date-released: 2025-12-29
+url: "https://github.com/innophore/isopat"
+repository-code: "https://github.com/innophore/isopat"
+license: MIT
+type: software
+authors:
+  - family-names: Gruber
+    given-names: Christian C.
+    orcid: "https://orcid.org/0000-0002-5285-7616"
+    affiliation: "Innophore GmbH, Graz, Austria"
+  - family-names: Kroutil
+    given-names: Wolfgang
+    orcid: "https://orcid.org/0000-0002-2151-6394"
+    affiliation: "University of Graz, Austria"
+keywords:
+  - mass spectrometry
+  - isotope labeling
+  - deconvolution
+  - deuterium
+  - stable isotopes
+references:
+  - type: article
+    title: "An algorithm for the deconvolution of mass spectroscopic patterns in isotope labeling studies"
+    authors:
+      - family-names: Gruber
+        given-names: Christian C.
+      - family-names: Oberdorfer
+        given-names: Gustav
+      - family-names: Voss
+        given-names: Constance V.
+      - family-names: Kremsner
+        given-names: Jennifer M.
+      - family-names: Kappe
+        given-names: C. Oliver
+      - family-names: Kroutil
+        given-names: Wolfgang
+    journal: "The Journal of Organic Chemistry"
+    volume: 72
+    issue: 15
+    start: 5778
+    end: 5783
+    year: 2007
+    doi: "10.1021/jo070831o"
